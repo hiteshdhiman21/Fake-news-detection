@@ -26,15 +26,3 @@
 
 <img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/s1.PNG">
 <img src="https://github.com/Spidy20/Fake_News_Detection/blob/master/s2.PNG">
-
-## Note
-- This project is just for learning purpose, don't think, it can do work in real time, because model was trained on historic & limited data.
-- For real time building of this kind of system, we need updated dataset and we need to build a model in particular interval of time, because news data can be updated in seconds, so our model should be also updated with the data.
-
-
-
-## Just follow☝️ me and Star⭐ my repository 
-
-# [Buy me a Coffee☕](https://www.buymeacoffee.com/spidy20)
-## [Donate me on PayPal(It will inspire me to do more projects)](https://www.paypal.me/spidy1820)
-## Donate me on GPAY:- kushalbhavsar58-1@okaxis
